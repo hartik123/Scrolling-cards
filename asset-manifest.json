@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Scrolling-cards/static/css/main.cb578de8.chunk.css",
+    "main.js": "/Scrolling-cards/static/js/main.3461801b.chunk.js",
+    "main.js.map": "/Scrolling-cards/static/js/main.3461801b.chunk.js.map",
+    "runtime-main.js": "/Scrolling-cards/static/js/runtime-main.1a224324.js",
+    "runtime-main.js.map": "/Scrolling-cards/static/js/runtime-main.1a224324.js.map",
+    "static/js/2.24e34905.chunk.js": "/Scrolling-cards/static/js/2.24e34905.chunk.js",
+    "static/js/2.24e34905.chunk.js.map": "/Scrolling-cards/static/js/2.24e34905.chunk.js.map",
+    "static/js/3.8c3f447d.chunk.js": "/Scrolling-cards/static/js/3.8c3f447d.chunk.js",
+    "static/js/3.8c3f447d.chunk.js.map": "/Scrolling-cards/static/js/3.8c3f447d.chunk.js.map",
+    "index.html": "/Scrolling-cards/index.html",
+    "static/css/main.cb578de8.chunk.css.map": "/Scrolling-cards/static/css/main.cb578de8.chunk.css.map",
+    "static/js/2.24e34905.chunk.js.LICENSE.txt": "/Scrolling-cards/static/js/2.24e34905.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1a224324.js",
+    "static/js/2.24e34905.chunk.js",
+    "static/css/main.cb578de8.chunk.css",
+    "static/js/main.3461801b.chunk.js"
+  ]
+}

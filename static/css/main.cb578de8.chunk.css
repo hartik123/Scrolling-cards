@@ -1,0 +1,2 @@
+*{margin:0;padding:0;box-sizing:border-box}.main_div{width:100vw;height:100vh;background-color:#ecf0f3;display:grid;place-items:center}.center_div{width:100%;display:flex;overflow-y:hidden;overflow-x:scroll}img{padding:20px;border-radius:30px;transition:-webkit-transform .3s ease-in;transition:transform .3s ease-in;transition:transform .3s ease-in,-webkit-transform .3s ease-in}img:hover{-webkit-transform:scale(1.1);transform:scale(1.1)}.center_div::-webkit-scrollbar{overflow:hidden}
+/*# sourceMappingURL=main.cb578de8.chunk.css.map */
